@@ -10,7 +10,7 @@ def functie():
 
 
 
-
+print("O alta schimbare")
 
 
 
